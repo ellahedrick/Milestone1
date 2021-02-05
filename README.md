@@ -27,7 +27,8 @@ throughout the game, as necessary. You cannot pay another player with money from
 2. Add a property card to your property collection. This is done by placing the card face up in front of you. The object of the game
 is to collect 3 complete property sets. Property sets are grouped by color.
 
-3. Play an action card. This is done by placing the card into the discard pile, and doing whatever action is written on the card.
+3. Play an action card. This is done by placing the card into the discard pile, and doing whatever action is written on the card. Once the
+action card is used it no longer has monetary value.
 
 Game Objective:
 The goal of the game is to be the first player to collect three property sets. When someone has collected three property sets, the
